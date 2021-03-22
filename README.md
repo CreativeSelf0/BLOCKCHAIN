@@ -17,7 +17,7 @@ I also added a post method so you can mine a new blockchain.
   ```
 3 - go to 127.0.0.1:5000/chain in your browser
 
-4 - if you want to mine a new block:
+4 - if you want to create a new block:
   ```
   curl -X POST -H "Content-Type: application/json" -d ' {"dummy data": 521 , "dumb": 1000} ' http://localhost:5000/chain
   ```
