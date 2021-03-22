@@ -9,7 +9,7 @@ It went step by step explaining the python code above and the white paper idea.
 I also added a post method so you can mine a new blockchain. 
 
 # How to install:
-1 - Install the the files.
+1 - Install the files.
 
 2 - run the blockchain python script 
   ```
