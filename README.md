@@ -1,7 +1,7 @@
 # Simple Blockchain 
 This project helped to get a glimpse of Satoshi Nakamoto Idea of Blockchain.
 
-The white paper was really good Linke: [https://bitcoin.org/bitcoin.pdf] 
+The white paper Link: [https://bitcoin.org/bitcoin.pdf] 
 
 In addition to this link: [https://www.activestate.com/blog/how-to-build-a-blockchain-in-python/].
 
